@@ -9,7 +9,7 @@ SymboLang is a Python GUI application that converts English text into a custom-d
 - Simple and intuitive GUI built with Tkinter.
 
 ## Screenshots
-![SymboLang UI](path/to/screenshot.png)
+![SymboLang UI](https://github.com/Aman-toad/SymboLang/blob/main/Screenshot%202025-03-15%20011850.png?raw=true)
 
 ## Installation
 ### Prerequisites
